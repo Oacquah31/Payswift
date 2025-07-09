@@ -64,7 +64,7 @@ Power BI dashboard features:
 - User personas by feature engagement
 - Risk segmentation (High Risk: 48%, Low Risk: 34%)
 
-> 📷 [Dashboard](https://github.com/Oacquah31/Payswift/blob/main/payswift.png)
+> 📷 ![Dashboard](https://github.com/Oacquah31/Payswift/blob/main/payswift.png)
 
 ---
 
